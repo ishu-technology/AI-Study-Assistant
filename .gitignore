@@ -1,0 +1,16 @@
+# Downloaded model files and caches
+TinyLlama_Model/
+.cache/
+
+# Python virtual environments and cache files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+
+# Private documents
+*.pdf
